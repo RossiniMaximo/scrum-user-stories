@@ -3,11 +3,11 @@ Como usuario del e-commerce necesito poder editar el estado de mi publicación p
 
 Como usuario de la aplicación necesito poder dar mi ubicación para buscar comercios cercanos.
 
-Como usuario del e-commerce necesito completar la pasarela de autenticación antes de comprar un producto para poder enviar via mail los datos de la compra realizada.
+Como usuario del e-commerce necesito poder  recibir la información de la compra realizada.
 
-Como usuario del e-commerce necesito poder reclamar una petición de reembolso en caso de que el producto este fallido.
+Como usuario del e-commerce necesito poder solicitar una petición de reembolso para cuando el producto no cumpla las expectativas o falle.
 
-Como usuario de la aplicación necesito poder cambiar mi contraseña.
+Como usuario del e-commerce necesito poder filtrar resultados por precio y marca para poder encontrar el producto que mas se adapte a mis preferencias.
 
 
 
